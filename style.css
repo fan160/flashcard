@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(192, 164, 39, 0.096);
+    background-color: rgba(12, 10, 10, 0.096);
 }
 #container {
     display:flex ;
@@ -9,6 +9,6 @@ body{
 }
 .cartao {
     margin: 1rem 1rem;
-    background-color: rgb(20, 211, 13);
+    background-color: rgb(17, 158, 201);
     height: 20rem;
 }
